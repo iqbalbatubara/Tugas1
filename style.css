@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+.containerbody{
+    margin: auto;
+    width: 60px;
+    overflow: hidden;
+}
+.containerbody{
+    margin: auto;
+    width: 60px;
+    overflow: hidden;
+}.header{
+    width: 100px;
+    background: #6b2424;
+    overflow: hidden;
+}
+.header .logo{
+    float: left;
+    font-size: 40px;
+}
+.header .navigation{
+    float: right;
+    margin-top: 40px;
+}
+.header .navigation{
+    float: right;
+    display: block;
+    margin-top: 40px;
+}
+.header .navigation li a{
+   text-decoration: none;
+   color: white;
+}
